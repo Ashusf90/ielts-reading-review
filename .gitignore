@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.pdf
+上架指南与平台汇总.md
+双平台上架操作指南.md
+一键发布-操作手册.md
+publish-clawhub.sh
+publish-github.sh
